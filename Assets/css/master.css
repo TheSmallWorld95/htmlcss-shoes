@@ -20,6 +20,8 @@
   background-color: #008000;
   color: #FFFF00;
 }
+
+
 /* UTILITY */
 
 /* HEADER */
@@ -92,6 +94,7 @@ main div img {
 
 main div p {
   font-size: 3em;
+  /* font-weight: bold; */
   text-transform: uppercase;
   text-align: center;
   position: absolute;
